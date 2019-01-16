@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import ReactDOM from "react-dom";
 
 // import { SurveyEditor } from "surveyjs-editor";
-import {SurveyEditor} from '../../editor/package/surveyeditor.min.js';
+import { SurveyEditor } from "./editor.js";
 
 import "./widgets.js";
 
